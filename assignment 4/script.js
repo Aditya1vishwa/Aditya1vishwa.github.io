@@ -14,5 +14,10 @@ names[8]="jim";
 
 for (var i=0;i< names.length;i++){
     if(names[i].charAt(0)=='j'||names[i].charAt(0)=='J'){
+<<<<<<< HEAD
         console.log("Goodbye"+names[i])}
     else{console.log("Hello"+names[i])}}
+=======
+        console.log("Goodbye "+names[i])}
+    else{console.log("Hello "+names[i])}}
+>>>>>>> 76f811b0c380c5ca0484e1e59fd072efa5728dd9
