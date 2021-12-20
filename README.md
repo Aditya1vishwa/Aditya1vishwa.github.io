@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aditya vishwakarma</h1>
-<h3 align="center">I love web and android development</h3>
+<h3 align="center">I love web and phython</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1vishwa&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1vishwa" /> </p>
 
