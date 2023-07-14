@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1vishwa&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1vishwa" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m  **web developer**
 
-- 👨‍💻 All of my projects are available at [ad](ad)
+- 👨‍💻 All of my projects are available at [ad]()
 
 - 📫 How to reach me **aadityavishwakarma708@gmail.com**
 
